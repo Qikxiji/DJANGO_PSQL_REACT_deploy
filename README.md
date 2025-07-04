@@ -1,5 +1,3 @@
-https://github.com/codingforinnovations/django-react-postgres
-
 # Postgres/Nginx/Django/React Docker deploy
 
 >Развёртывание шаблонного приложения на Django с помощью Docker Compose.
